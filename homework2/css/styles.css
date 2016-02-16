@@ -56,6 +56,9 @@ div.right-column {
   margin-top:5%;
   margin-right:45%;
 }
+footer ul li {
+  display: inline-block;
+}
 h4 {
   font-family:Arial;
 }
