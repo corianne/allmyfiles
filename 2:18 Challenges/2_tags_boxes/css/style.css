@@ -1,0 +1,24 @@
+body
+h1 {
+	background-color: red;
+	border: 4px solid black;
+	padding: 2px;
+}
+p {
+	background-color: blue;
+	color: white;
+	padding: 2px;
+	border: 4px solid black;
+}
+code {
+	background-color: white;
+	color: black;
+	padding: 1px;
+	border: 2px solid black;
+}
+ol {
+	line-height: 150%;
+}
+h2, li {
+	font-family: Arial;
+}
