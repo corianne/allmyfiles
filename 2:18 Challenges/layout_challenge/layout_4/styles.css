@@ -1,3 +1,6 @@
+* {
+  box-sizing: border-box;
+}
 .logo {
 	background-color: #e6e6e6;
 	border: 2px solid gray;
@@ -18,7 +21,7 @@ li {
 	border: 2px solid gray;
 	list-style-type: none;
 	height: 60px;
-	width: 22%;
+	width: 21%;
 	margin: 5% 2% 2% 0%;	
 }
 main {
@@ -31,7 +34,7 @@ main {
 .lower-left {
 	background-color: #e6e6e6;
 	border: 2px solid gray;
-	width: 28.3%;
+	width: 28.2%;
 	height: 250px;
 	margin: 0% 2% 2% 5%;
 	float: left;
@@ -39,7 +42,7 @@ main {
 .lower-middle {
 	background-color: #e6e6e6;
 	border: 2px solid gray;
-	width: 28.3%;
+	width: 28.2%;
 	height: 250px;
 	margin: 0% 2% 2% 0%;
 	float: left;
@@ -47,7 +50,7 @@ main {
 .lower-right {
 	background-color: #e6e6e6;
 	border: 2px solid gray;
-	width: 28.3%;
+	width: 28.2%;
 	height: 250px;
 	margin: 0% 5% 2% 0%;
 	float: left;

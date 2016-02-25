@@ -1,3 +1,6 @@
+* {
+  box-sizing: border-box;
+}
 .logo {
 	background-color: #e6e6e6;
 	border: 2px solid gray;
@@ -48,7 +51,6 @@ aside {
 	height: 350px;
 	width: 58%;
 	float: left;
-	margin: 0% 3% 2% 0%;
 }
 .right-col {
 	background-color: #e6e6e6;
@@ -61,12 +63,13 @@ aside {
 .bottom {
 	height: 150px;
 	clear: right;
+	margin-top: 4%;
 }
 .low-block {
 	background-color: #e6e6e6;
 	border: 2px solid gray;
 	height: 167px;
-	width: 17%;
+	width: 17.5%;
 	float: left;
 	margin: 0% 2% 2% 0%;
 }
